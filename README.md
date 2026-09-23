@@ -4,7 +4,7 @@ Static, GitHub Pages-ready portfolio site.
 
 ## Before publishing
 
-Update the LinkedIn URL and email address in `index.html` with your real details. The site has no build step: GitHub Pages can publish the repository root directly.
+The site is wired to Parker's LinkedIn profile and email. The site has no build step: GitHub Pages can publish the repository root directly.
 
 ## Local preview
 
